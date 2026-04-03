@@ -7,6 +7,8 @@ I am starting my journey to become a Data Scientist.
 - Start Date: [02-04-2026]
 - Goal: Complete ML in 100 days
 
+- Starting SOme Daya I Uploaded only md files (Notes) , beacause starting has only notes , not an any pratical programs.
+
 ## 📌 Progress
 
 | Day | Topic | Link |

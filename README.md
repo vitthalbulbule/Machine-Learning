@@ -11,7 +11,7 @@ I am starting my journey to become a Data Scientist.
 
 | Day | Topic | Link |
 |-----|------|------|
-| 1 | Introduction to ML | [View](Day 1. What Is Machine Learning/) |
+| 1 | Introduction to ML | [View](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%201.%20What%20Is%20Machine%20Learning.docx) |
 | 2 | Types of ML | [View](Day-02-Types-of-ML/) |
 
 

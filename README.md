@@ -11,7 +11,7 @@ I am starting my journey to become a Data Scientist.
 
 | Day | Topic | Link |
 |-----|------|------|
-| 1 | Introduction to ML | [View](Day-01-Introduction-to-ML/) |
+| 1 | Introduction to ML | [View](Day 1. What Is Machine Learning/) |
 | 2 | Types of ML | [View](Day-02-Types-of-ML/) |
 
 

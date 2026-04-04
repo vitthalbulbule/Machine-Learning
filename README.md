@@ -14,7 +14,8 @@ I am starting my journey to become a Data Scientist.
 | Day | Topic | Link |
 |-----|------|------|
 | 1 | Introduction to ML | [View](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%201.%20What%20Is%20Machine%20Learning.docx) |
-| 2 | Types of ML | [View](Day-02-Types-of-ML/) |
+| 2 | AI-ML-DL | [view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%202.%20AI-ML-DL.md)
+| 3 | Types of ML | [View](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%203%20.Types%20Of%20Machine%20Learning.md) |
 
 
 ## 🛠️ Tools

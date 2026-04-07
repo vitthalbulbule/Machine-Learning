@@ -18,6 +18,7 @@ I am starting my journey to become a Data Scientist.
 | 3 | Types of ML | [View](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%203%20.Types%20Of%20Machine%20Learning.md) |
 | 4 | Batch Machine Learning | [view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%204.Batch(Offline)%20ML.ipynb) |
 | 5 | Online Machine Learning | [view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%205.Online%20Machine%20Learning.ipynb)
+| 6 | Instance & Model Based Learning | [view] (https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%206.%20Instance%20%26%20Model%20Based%20Learning.md)
 
 
 ## 🛠️ Tools

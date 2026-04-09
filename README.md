@@ -20,6 +20,7 @@ I am starting my journey to become a Data Scientist.
 | 5 | Online Machine Learning | [view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%205.Online%20Machine%20Learning.ipynb) |
 | 6 | Instance & Model Based Learning | [view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%206.%20Instance%20%26%20Model%20Based%20Learning.md) |
 | 7 |Challenges In Machine Learning | [view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%207.%20Challenges%20In%20Machine%20Learning.md)|
+| 8 |Application of Machine Learning |[view] (https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%208.%20Application%20of%20Machine%20Learning.md) |
 
 
 

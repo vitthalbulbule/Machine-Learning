@@ -21,7 +21,7 @@ I am starting my journey to become a Data Scientist.
 | 6 | Instance & Model Based Learning | [view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%206.%20Instance%20%26%20Model%20Based%20Learning.md) |
 | 7 |Challenges In Machine Learning | [view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%207.%20Challenges%20In%20Machine%20Learning.md)|
 | 8 |Application of Machine Learning |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%208.%20Application%20of%20Machine%20Learning.md)|
-| 9 |Machine Learning Life Cycle |[view]
+| 9 |Machine Learning Development Cycle |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%209.Machine%20Learning%20Development%20Life%20Cycle.md) |
 
 
 

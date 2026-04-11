@@ -113,7 +113,4 @@ The Machine Learning (ML) Development Cycle is a step-by-step process used to bu
 ## 📌 Conclusion
 The Machine Learning Development Cycle ensures a systematic approach to building robust and scalable ML models. Following these steps helps in improving accuracy, efficiency, and real-world applicability of machine learning solutions.
 
----
 
-## 📄 License
-This project is for educational purposes only.

@@ -22,6 +22,7 @@ I am starting my journey to become a Data Scientist.
 | 7 |Challenges In Machine Learning | [view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%207.%20Challenges%20In%20Machine%20Learning.md)|
 | 8 |Application of Machine Learning |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%208.%20Application%20of%20Machine%20Learning.md)|
 | 9 |Machine Learning Development Cycle |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%209.Machine%20Learning%20Development%20Life%20Cycle.md) |
+| 10 |Tensors |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2010.%20Tensors) |
 
 
 

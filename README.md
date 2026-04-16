@@ -25,7 +25,8 @@ I am starting my journey to become a Data Scientist.
 | 10 |Tensors |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2010.%20Tensors) |
 | 11 |Crating Virtual Environment |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2011.%20Creating%20Virtual%20Environment.md) |
 | 12 |End-End Toy Project |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2012.%20End-End%20Toy%20Project)|
-
+| 13 |How to frame a Machine Learning Problem |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2013.%20How%20to%20frame%20machine%20Learning%20Problem.md)|
+| 14 |Working With CSV File |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2014.%20Working%20With%20CSV%20File)|
 
 
 ## 🛠️ Tools

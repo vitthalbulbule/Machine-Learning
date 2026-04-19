@@ -27,6 +27,9 @@ I am starting my journey to become a Data Scientist.
 | 12 |End-End Toy Project |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2012.%20End-End%20Toy%20Project)|
 | 13 |How to frame a Machine Learning Problem |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2013.%20How%20to%20frame%20machine%20Learning%20Problem.md)|
 | 14 |Working With CSV File |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2014.%20Working%20With%20CSV%20File)|
+| 15 |Working With Json & SQL |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2015.Working%20With%20Json%20%26%20SQL)|
+| 16 |Fetching Data From An API|[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2016.Fetching%20Data%20from%20an%20API)|
+| 17 |Web Scrapping |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2017.Web%20Scrapping)|
 
 
 ## 🛠️ Tools

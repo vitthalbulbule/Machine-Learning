@@ -30,6 +30,7 @@ I am starting my journey to become a Data Scientist.
 | 15 |Working With Json & SQL |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2015.Working%20With%20Json%20%26%20SQL)|
 | 16 |Fetching Data From An API|[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2016.Fetching%20Data%20from%20an%20API)|
 | 17 |Web Scrapping |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2017.Web%20Scrapping)|
+| 18 |Understanding Your data |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2018.%20%20Understanding%20Yout%20data.ipynb)|
 
 
 ## 🛠️ Tools

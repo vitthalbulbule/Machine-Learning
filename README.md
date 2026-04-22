@@ -31,6 +31,8 @@ I am starting my journey to become a Data Scientist.
 | 16 |Fetching Data From An API|[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2016.Fetching%20Data%20from%20an%20API)|
 | 17 |Web Scrapping |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2017.Web%20Scrapping)|
 | 18 |Understanding Your data |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2018.%20%20Understanding%20Yout%20data.ipynb)|
+| 19 |Univarient Analysis |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2019%20Univarant%20Analysis)|
+| 20 |Bivarient & Multivarient |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2020%20Bivarient%20%26%20Multivarient%20Analysis)|
 
 
 ## 🛠️ Tools

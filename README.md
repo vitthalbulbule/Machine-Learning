@@ -34,6 +34,9 @@ I am starting my journey to become a Data Scientist.
 | 19 |Univarient Analysis |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2019%20Univarant%20Analysis)|
 | 20 |Bivarient & Multivarient |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2020%20Bivarient%20%26%20Multivarient%20Analysis)|
 | 21 |Pandas Profiling |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2021.%20Pandas%20Profilling)|
+| 22 |Train Test Split |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2022.%20train_test_split.ipynb)|
+| 23 |Feature Scaling (Standarization) |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2023%20feature-scaling-STANDARIZATION.ipynb)|
+| 24 |Feature Scaling (Normalization) |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2024.%20FeatureScaling-Normalization.ipynb)|
 
 
 ## 🛠️ Tools

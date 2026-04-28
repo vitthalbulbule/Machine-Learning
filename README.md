@@ -38,6 +38,7 @@ I am starting my journey to become a Data Scientist.
 | 23 |Feature Scaling (Standarization) |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2023%20feature-scaling-STANDARIZATION.ipynb)|
 | 24 |Feature Scaling (Normalization) |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2024.%20FeatureScaling-Normalization.ipynb)|
 | 25 |Encoding Categorical Data |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2025.%20encoding-label-ordinal.ipynb)|
+| 26 |One Hot Encoding |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2026.%20One-hot-encoding.ipynb)|
 
 
 ## 🛠️ Tools

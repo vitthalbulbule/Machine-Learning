@@ -41,7 +41,7 @@ I am starting my journey to become a Data Scientist.
 | 26 |One Hot Encoding |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2026.%20One-hot-encoding.ipynb)|
 
 
-## 🛠️ Tools
+## 🛠️ Tools 
 - Python
 - NumPy
 - Pandas

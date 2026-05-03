@@ -41,6 +41,8 @@ I am starting my journey to become a Data Scientist.
 | 26 |One Hot Encoding |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2026.%20One-hot-encoding.ipynb)|
 | 27 |Column Transformer |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2027.column-transformer.ipynb)|
 | 28 |Machine Learning Pipeine |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2028.%20ML-pipeline.ipynb)|
+| 29 |Function Transformer |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2029.%20FunctionTransformer.ipynb)|
+| 30 |Power Transformer |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2030.%20Power-Transformer.ipynb)|
 
 
 ## 🛠️ Tools 

@@ -43,6 +43,7 @@ I am starting my journey to become a Data Scientist.
 | 28 |Machine Learning Pipeine |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2028.%20ML-pipeline.ipynb)|
 | 29 |Function Transformer |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2029.%20FunctionTransformer.ipynb)|
 | 30 |Power Transformer |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2030.%20Power-Transformer.ipynb)|
+| 31 |Binning Techniques |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2031.%20Binning-Techniques.ipynb)|
 
 
 ## 🛠️ Tools 

@@ -44,6 +44,7 @@ I am starting my journey to become a Data Scientist.
 | 29 |Function Transformer |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2029.%20FunctionTransformer.ipynb)|
 | 30 |Power Transformer |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2030.%20Power-Transformer.ipynb)|
 | 31 |Binning Techniques |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2031.%20Binning-Techniques.ipynb)|
+| 32 |Handling Mixed Data |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2032.%20handling-mixed-data.ipynb)|
 
 
 ## 🛠️ Tools 

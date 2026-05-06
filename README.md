@@ -7,7 +7,7 @@ I am starting my journey to become a Data Scientist.
 - Start Date: [02-04-2026]
 - Goal: Complete ML in 100 days
 
-- Starting SOme Daya I Uploaded only md files (Notes) , beacause starting has only notes , not an any pratical programs.
+- Starting Some Day I Uploaded only md files (Notes) , beacause starting has only notes , not an any pratical programs.
 
 ## 📌 Progress
 
@@ -45,7 +45,7 @@ I am starting my journey to become a Data Scientist.
 | 30 |Power Transformer |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2030.%20Power-Transformer.ipynb)|
 | 31 |Binning Techniques |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2031.%20Binning-Techniques.ipynb)|
 | 32 |Handling Mixed Data |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2032.%20handling-mixed-data.ipynb)|
-
+| 33 |Handling Date & Time |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2033.%20handling-date-time.ipynb)|
 
 ## 🛠️ Tools 
 - Python

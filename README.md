@@ -47,6 +47,7 @@ I am starting my journey to become a Data Scientist.
 | 32 |Handling Mixed Data |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2032.%20handling-mixed-data.ipynb)|
 | 33 |Handling Date & Time |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2033.%20handling-date-time.ipynb)|
 | 34 |CCA (Complete Case Analysis) |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2034.%20cca-missing-analysis.ipynb)|
+| 35 |Missing Value (Univarient Imputation)[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2035.%20MissingValue-univarentimputation.ipynb)|
 
 ## 🛠️ Tools 
 - Python

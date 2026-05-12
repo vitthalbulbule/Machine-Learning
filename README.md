@@ -52,6 +52,7 @@ I am starting my journey to become a Data Scientist.
 | 37 |MissingIndicator |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2037.%20Missing-indicator.ipynb)|
 | 37 |Automatically Select Value For Imputation |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2037.%20automatically-select-imputer-grid-cv.ipynb)|
 | 38 |KNN Imputer |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2038.%20knn-imputer.ipynb)|
+| 39 |MICE Iterative Imputer |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2039.%20mice-imputer.ipynb)|
 
 ## 🛠️ Tools 
 - Python

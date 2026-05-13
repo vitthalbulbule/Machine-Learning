@@ -53,6 +53,7 @@ I am starting my journey to become a Data Scientist.
 | 37 |Automatically Select Value For Imputation |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2037.%20automatically-select-imputer-grid-cv.ipynb)|
 | 38 |KNN Imputer |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2038.%20knn-imputer.ipynb)|
 | 39 |MICE Iterative Imputer |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2039.%20mice-imputer.ipynb)|
+| 40 |Z-Score Method For Outlier Detection & Correction |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2040.%20z-score-for-outlier-detection-correction.ipynb)|
 
 ## 🛠️ Tools 
 - Python

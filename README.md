@@ -55,6 +55,7 @@ I am starting my journey to become a Data Scientist.
 | 39 |MICE Iterative Imputer |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2039.%20mice-imputer.ipynb)|
 | 40 |Z-Score Method For Outlier Detection & Correction |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2040.%20z-score-for-outlier-detection-correction.ipynb)|
 | 41 |IQR Method For Outlier Detecion & Correcton |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2041.%20IQR-Outlierdetection.ipynb)|
+| 42 |Percentile outlier Detection & Correction Technique |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2042.%20percentile-method-outlier.ipynb)|
 
 ## 🛠️ Tools 
 - Python

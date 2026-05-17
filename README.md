@@ -57,6 +57,7 @@ I am starting my journey to become a Data Scientist.
 | 41 |IQR Method For Outlier Detecion & Correcton |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2041.%20IQR-Outlierdetection.ipynb)|
 | 42 |Percentile outlier Detection & Correction Technique |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2042.%20percentile-method-outlier.ipynb)|
 | 43 |Feature Construction , Feature Splitting |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2043.%20Feature-construction.ipynb)|
+| 44 |Principle Component Analysis |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2044%20.%20pca-principle-component-analysis.ipynb)|
 
 ## 🛠️ Tools 
 - Python

@@ -58,6 +58,7 @@ I am starting my journey to become a Data Scientist.
 | 42 |Percentile outlier Detection & Correction Technique |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2042.%20percentile-method-outlier.ipynb)|
 | 43 |Feature Construction , Feature Splitting |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2043.%20Feature-construction.ipynb)|
 | 44 |Principle Component Analysis |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2044%20.%20pca-principle-component-analysis.ipynb)|
+| 45 |PCA Pratice dataset |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2045.%20pca-pratice-dataset-1.ipynb)|
 
 ## 🛠️ Tools 
 - Python

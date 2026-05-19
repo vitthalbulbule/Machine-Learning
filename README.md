@@ -59,6 +59,7 @@ I am starting my journey to become a Data Scientist.
 | 43 |Feature Construction , Feature Splitting |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2043.%20Feature-construction.ipynb)|
 | 44 |Principle Component Analysis |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2044%20.%20pca-principle-component-analysis.ipynb)|
 | 45 |PCA Pratice dataset |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2045.%20pca-pratice-dataset-1.ipynb)|
+| 46 |Linear Regression |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2046.%20Linear%20Regression.ipynb)|
 
 ## 🛠️ Tools 
 - Python

@@ -63,6 +63,7 @@ I am starting my journey to become a Data Scientist.
 | 47 |PCA ON CIFAIR |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2047.%20pca-on-cifar.ipynb)|
 | 48 |Linear Regression |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2048-50%20.%20Linear%20Regression)|
 | 49 |Car Price Predction |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2048-50%20.%20Linear%20Regression/CarPrediction)|
+| 50 |House Price Prediction |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2048-50%20.%20Linear%20Regression/Day%2050.%20house-price-prediction2.ipynb)|
 
 ## 🛠️ Tools 
 - Python

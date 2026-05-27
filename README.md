@@ -66,6 +66,7 @@ I am starting my journey to become a Data Scientist.
 | 50 |House Price Prediction |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2048-50%20.%20Linear%20Regression/Day%2050.%20house-price-prediction2.ipynb)|
 | 51 |Gradint Decent |[view](https://github.com/vitthalbulbule/Machine-Learning/tree/main/Day%2051-53.%20Gradient%20Decent)|
 | 52 |Batch Gradient Decent |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2051-53.%20Gradient%20Decent/Day%2051.%20Batch-gradient-decent.ipynb)|
+| 53 |Stochastic Gradient Decent |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2051-53.%20Gradient%20Decent/Day%2052%20.%20Stochastic%20gradient%20Decent.ipynb)|
 
 ## 🛠️ Tools 
 - Python

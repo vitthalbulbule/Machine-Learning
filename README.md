@@ -68,6 +68,7 @@ I am starting my journey to become a Data Scientist.
 | 52 |Batch Gradient Decent |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2051-53.%20Gradient%20Decent/Day%2051.%20Batch-gradient-decent.ipynb)|
 | 53 |Stochastic Gradient Decent |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2051-53.%20Gradient%20Decent/Day%2052%20.%20Stochastic%20gradient%20Decent.ipynb)|
 | 54 |Mini batch Gradient decent |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2051-53.%20Gradient%20Decent/Day%2053.%20Mini-batch-gradient-decent.ipynb)|
+| 54 |Polynomial Regression |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2054.%20Polynomialregression%20(1).ipynb)|
 
 ## 🛠️ Tools 
 - Python

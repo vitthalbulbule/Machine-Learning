@@ -70,7 +70,7 @@ I am starting my journey to become a Data Scientist.
 | 54 |Mini batch Gradient decent |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2051-53.%20Gradient%20Decent/Day%2053.%20Mini-batch-gradient-decent.ipynb)|
 | 54 |Polynomial Regression |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2054.%20Polynomialregression%20(1).ipynb)|
 | 55 |Overfitting & Underfitting |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2055.%20Overfittng-underfitting.ipynb?short_path=a97f78a)|
-| 56 & 57 |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2056-57.%20Lasso-ridge-regression.ipynb)|
+| 56 & 57 |Lasso - Ridge Regression |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2056-57.%20Lasso-ridge-regression.ipynb)|
 | Project Work |
 | 58 |ElasticNet Regression |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2059%20.%20Elasticregression.ipynb)|
 | 59 |Logistic Regression |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2060.%20Logistic_regression.ipynb)|

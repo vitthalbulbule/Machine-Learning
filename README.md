@@ -73,6 +73,7 @@ I am starting my journey to become a Data Scientist.
 | 56 & 57 |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2056-57.%20Lasso-ridge-regression.ipynb)|
 | Project Work |
 | 58 |ElasticNet Regression |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2059%20.%20Elasticregression.ipynb)|
+| 59 |Logistic Regression |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2060.%20Logistic_regression.ipynb)|
 
 ## 🛠️ Tools 
 - Python

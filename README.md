@@ -75,6 +75,7 @@ I am starting my journey to become a Data Scientist.
 | 58 |ElasticNet Regression |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2059%20.%20Elasticregression.ipynb)|
 | 59 |Logistic Regression |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2060.%20Logistic_regression.ipynb)|
 | 60 |Classification Metrics |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2060.%20classification-metrics.ipynb)|
+| 61 |Confusion Metrix |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2061.%20Confusionmetrix-precision-recall.ipynb)|
 
 ## 🛠️ Tools 
 - Python

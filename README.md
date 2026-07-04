@@ -4,6 +4,7 @@ Hi, I'm Vitthal 👋
 I am starting my journey to become a Data Scientist.
 
 ## 📅 Challenge
+
 - Start Date: [02-04-2026]
 - Goal: Complete ML in 100 days
   

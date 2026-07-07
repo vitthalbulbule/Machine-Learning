@@ -1,4 +1,4 @@
-# 🚀 100 Days of Machine Learning
+#🚀 100 Days of Machine Learning
 
 Hi, I'm Vitthal 👋  
 I am starting my journey to become a Data  Scientist.

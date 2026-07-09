@@ -79,6 +79,7 @@ I am starting my journey to become a Data  Scientist.
 | 60 |Classification Metrics |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2060.%20classification-metrics.ipynb)|
 | 61 |Confusion Metrix |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2061.%20Confusionmetrix-precision-recall.ipynb)|
 | 62 |ROC Curve |[view](https://github.com/vitthalbulbule/Machine-Learning/blob/main/Day%2062.%20roc-curve.ipynb)|
+| 63 | Project |
 
 ## 🛠️ Tools 
 - Python
